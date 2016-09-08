@@ -11,5 +11,11 @@ https://medium.com/@daviddentoom/switching-to-es6-with-angular-1-x-is-easy-a08c4
 ### Pitfalls
 http://stackoverflow.com/questions/35176469/passing-scope-variables-to-an-angularjs-controller-using-fat-arrows
 
+## WEB API STUFF
+
+### Cors Fix
+http://enable-cors.org/server_expressjs.html
+
+
 
 
