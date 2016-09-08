@@ -16,6 +16,11 @@ http://stackoverflow.com/questions/35176469/passing-scope-variables-to-an-angula
 ### Cors Fix
 http://enable-cors.org/server_expressjs.html
 
+### NodeJS Auto Refresh
+https://github.com/remy/nodemon
+
+
+
 
 
 
