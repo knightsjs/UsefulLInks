@@ -22,8 +22,11 @@ https://github.com/remy/nodemon
 ## WEB TOOLS
 ## Papa's lite-server  magic
 https://github.com/johnpapa/lite-server
+## Options for Papa's Magical Server
+https://www.browsersync.io/docs/options/
 ## Normalize.css
 https://necolas.github.io/normalize.css/
+
 
 
 
