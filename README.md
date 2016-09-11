@@ -20,7 +20,7 @@ http://enable-cors.org/server_expressjs.html
 https://github.com/remy/nodemon
 
 ## WEB TOOLS
-## Papa''s lite-server  magic
+## Papa's lite-server  magic
 https://github.com/johnpapa/lite-server
 
 
