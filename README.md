@@ -19,6 +19,10 @@ http://enable-cors.org/server_expressjs.html
 ### NodeJS Auto Refresh
 https://github.com/remy/nodemon
 
+## WEB TOOLS
+## Papa''s lite-server  magic
+https://github.com/johnpapa/lite-server
+
 
 
 
