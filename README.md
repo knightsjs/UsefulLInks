@@ -20,14 +20,22 @@ http://enable-cors.org/server_expressjs.html
 https://github.com/remy/nodemon
 
 ## WEB TOOLS
-## Papa's lite-server  magic
+### Papa's lite-server  magic
 https://github.com/johnpapa/lite-server
-## Options for Papa's Magical Server
+### Options for Papa's Magical Server
 https://www.browsersync.io/docs/options/
-## Normalize.css
+### Normalize.css
 https://necolas.github.io/normalize.css/
-## MEAN API model
+### MEAN API model
 https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+
+## CSS SMOKE AND MIRRORS
+### Learn CSS Layout
+http://learnlayout.com/
+
+## SCALE: TO INFINITY AND BEYOND
+### Papa's Recipe to Growth
+https://johnpapa.net/angular-growth-structure/
 
 
 
