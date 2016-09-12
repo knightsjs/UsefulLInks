@@ -26,6 +26,8 @@ https://github.com/johnpapa/lite-server
 https://www.browsersync.io/docs/options/
 ## Normalize.css
 https://necolas.github.io/normalize.css/
+## MEAN API model
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 
 
 
